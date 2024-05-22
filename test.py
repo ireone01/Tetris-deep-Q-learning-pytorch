@@ -1,6 +1,4 @@
-"""
-@author: Viet Nguyen <nhviet1009@gmail.com>
-"""
+
 import argparse
 import torch
 import cv2
